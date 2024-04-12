@@ -1,0 +1,26 @@
+Funções são ações executadas assim que são chamadas ou em decorrência de algum evento.
+pode receber parametros e pode retornar um resultado
+
+Toda função tem:
+
+uma chamada
+um conjunto de parametros 
+uma ação
+um retorno 
+
+nem toda função usa parametros, nem toda função tem retornos;
+
+--> ex: 
+
+    // verificar se é par ou impar
+    function parimp(n) {
+        if (n % 2 == 0) {
+            return 'Par'
+        } else {
+            return 'Impar'
+        }
+    }
+    let res = parimp(11) 
+    console.log(res) --> Impar
+
+OBS: A declaração da função não executa a função. A chamada da função executa a função!

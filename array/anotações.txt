@@ -1,0 +1,18 @@
+array ou vetor ou varivavel composta, é uma variavel que tem varios elementos, cada elemento é cmoposto por seu valor
+e por uma chave de identificação 
+
+--> ex:
+
+    let a = [carro1, carro2, carro3]
+
+a: array ou vetor 
+
+[0]: elemento do array (ou item)
+
+.length: tamanho do array
+
+carro1, carro2, carro3: conteúdo valor 
+
+0, 1, 2: indice chave
+
+//-----------------------------------------------//
